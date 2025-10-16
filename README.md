@@ -113,7 +113,7 @@ lib/
 1. *Clone the repository*
 
    bash
-   git clone <https://github.com/AryanMishra586/CausalFunnel_Assignment>
+   git clone https://github.com/AryanMishra586/CausalFunnel_Assignment.git
    cd quiz-app
    
 
